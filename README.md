@@ -16,17 +16,16 @@ An intuitive and dynamic task management application designed to help users effi
 
 ## Demo
 
-![image](https://github.com/user-attachments/assets/ad6cb5d1-f27e-4612-8dcc-35f37881d60f)
-![image](https://github.com/user-attachments/assets/d858ff75-dc55-4062-8f8d-8c89f54f637d)
+
 
 
 ## Installation
 
 1. **Clone the Repository**:
 
-   '''bash
+   ```bash
    git clone https://github.com/Vaishnavi-M-1909/to-do-list
-   '''
+   ```
 
 2. **Navigate to the Project Directory**:
 
