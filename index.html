@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive To-Do App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>To-Do List 📑</h1>
+            <button class="theme-toggle" id="theme-toggle" onclick="toggleTheme()">🌙</button>
+        </div>
+
+        <div class="live-clock" id="live-clock"></div>
+
+        <div class="add-task">
+            <input type="text" id="task-input" placeholder="Add a new task...">
+            <button onclick="addTask()">Add</button>
+        </div>
+
+        <div class="task-list" id="task-list">
+            <p class="empty-state" id="empty-state">Your task list is empty. Add a task to get started!</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
