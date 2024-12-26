@@ -26,9 +26,9 @@ An intuitive and dynamic task management application designed to help users effi
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/interactive-todo-app.git
-   ```
+   '''bash
+   git clone https://github.com/Vaishnavi-M-1909/to-do-list
+   '''
 
 2. **Navigate to the Project Directory**:
 
