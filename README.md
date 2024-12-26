@@ -1,5 +1,3 @@
-Creating a comprehensive README file is essential for effectively communicating the purpose, functionality, and usage of your project to potential users and contributors. Here's a structured template tailored for your Interactive To-Do App:
-
 ```markdown
 # Interactive To-Do App
 
