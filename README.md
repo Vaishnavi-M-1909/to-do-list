@@ -3,7 +3,7 @@
 
 An intuitive and dynamic task management application designed to help users efficiently organize their daily activities.
 
-## Features
+ Features
 
 - Real-Time Clock Integration: Displays the current time in IST, updating every second.
 - Dark Mode Toggle: Allows users to switch between light and dark themes for optimal viewing.
