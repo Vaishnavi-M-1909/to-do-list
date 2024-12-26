@@ -18,9 +18,9 @@ An intuitive and dynamic task management application designed to help users effi
 
 ## Demo
 
-![Interactive To-Do App Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/ad6cb5d1-f27e-4612-8dcc-35f37881d60f)
+![image](https://github.com/user-attachments/assets/d858ff75-dc55-4062-8f8d-8c89f54f637d)
 
-*Screenshot of the Interactive To-Do App in action.*
 
 ## Installation
 
