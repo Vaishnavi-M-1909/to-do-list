@@ -30,7 +30,7 @@ An intuitive and dynamic task management application designed to help users effi
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd interactive-todo-app
+   cd to-do-list
    ```
 
 3. **Open `index.html` in Your Preferred Web Browser**.
