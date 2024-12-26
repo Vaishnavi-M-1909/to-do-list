@@ -13,15 +13,15 @@ An intuitive and dynamic task management application designed to help users effi
   - Edit existing tasks.
   - Delete tasks when no longer needed.
   - Reorder tasks using move-up and move-down functionalities.
-
-## Demo
-
-
+```
+ Demo
 
 
-## Installation
 
-1. Clone the Repository:
+
+ Installation
+
+1. **Clone the Repository**:
 
    ```bash
    git clone https://github.com/Vaishnavi-M-1909/to-do-list
