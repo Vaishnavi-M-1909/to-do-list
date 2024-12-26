@@ -1,5 +1,5 @@
 ```markdown
-# Interactive To-Do App
+ Interactive To-Do App
 
 An intuitive and dynamic task management application designed to help users efficiently organize their daily activities.
 
