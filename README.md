@@ -15,6 +15,8 @@ An intuitive and dynamic task management application designed to help users effi
   - Reorder tasks using move-up and move-down functionalities.
 ```
  Demo
+![image](https://github.com/user-attachments/assets/67bcf2c4-21f7-441e-9165-04d86434f9f2)
+![image](https://github.com/user-attachments/assets/39406445-4a38-40f9-acfb-fcc052600292)
 
 
 
